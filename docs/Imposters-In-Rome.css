@@ -134,17 +134,18 @@
 .u-section-4 .u-image-1 {
   width: 341px;
   height: 110px;
-  margin: 11px auto 0;
-}
-
-.u-section-4 .u-text-1 {
-  margin: 20px auto 0;
+  margin: 14px auto 0;
 }
 
 .u-section-4 .u-image-2 {
   width: 495px;
   height: 386px;
-  margin: 20px auto 25px;
+  margin: 14px auto 25px;
+}
+
+.u-section-4 .u-custom-html-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
 }
 
 @media (max-width: 575px) {
